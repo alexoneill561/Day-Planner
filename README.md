@@ -9,4 +9,5 @@ A virtual calendar that gives you time slots throughout the day to input what yo
 - JQuery
 
 # Links
-
+[Deployed Page](https://alexoneill561.github.io/Day-Planner/)
+[Github Page](https://github.com/alexoneill561)
